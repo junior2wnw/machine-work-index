@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Submit a painful local task
-    url: https://github.com/junior2wnw/worst-local-task/issues/new?template=task_submission.md
-    about: Use the task submission template so the workflow includes machine, risk, and end-state details.
+  - name: Open a case note
+    url: https://github.com/junior2wnw/machine-work-index/issues/new?template=case_note.md
+    about: Use the case note template so the workflow includes machine, risk, and end-state details.

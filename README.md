@@ -1,8 +1,8 @@
-# Worst Local Task
+# Machine Work Index
 
-Bring the ugliest local workflow you repeat on a real machine.
+An open index of difficult local-machine workflows, approval boundaries, and end states.
 
-This repository is a public challenge surface for painful local tasks that currently live across:
+This repository is for tasks that currently live across:
 
 - shell history
 - sticky notes
@@ -11,15 +11,15 @@ This repository is a public challenge surface for painful local tasks that curre
 - browser tabs
 - human babysitting
 
-The goal is simple:
+The point is simple:
 
 - collect real local workflows with real pain
 - describe where the danger points and approval boundaries are
-- make it obvious which tasks deserve a better operator surface
+- make it easier to discuss machine work without reducing it to slogans
 
-This repo is intentionally broader than any single product.
+This repo is intentionally broader than any single product surface.
 
-`Klava` is one implementation path, not the definition of the challenge.
+`Klava` is one implementation path, not the definition of the index.
 
 ## What belongs here
 
@@ -36,9 +36,9 @@ This repo is intentionally broader than any single product.
 - tasks that require private credentials or secret data in public
 - pure cloud-only workflows with no meaningful local machine surface
 
-## Submit a task
+## Submit a case note
 
-- Open an issue: https://github.com/junior2wnw/worst-local-task/issues/new?template=task_submission.md
+- Open an issue: https://github.com/junior2wnw/machine-work-index/issues/new?template=case_note.md
 
 ## Evaluation rubric
 

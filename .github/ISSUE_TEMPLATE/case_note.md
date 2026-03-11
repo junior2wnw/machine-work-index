@@ -1,13 +1,13 @@
 ---
-name: Task submission
-about: Submit a painful local workflow that deserves a better operator surface.
-title: "[Task] "
-labels: challenge
+name: Case note
+about: Outline a difficult local-machine workflow, its boundaries, and desired end state.
+title: "[Case] "
+labels: intake
 ---
 
 This issue is public. Do not post secrets, credentials, customer data, or private infrastructure details.
 
-## The task
+## The workflow
 
 What is the actual local workflow?
 
@@ -15,7 +15,7 @@ What is the actual local workflow?
 - what the operator has to inspect or change;
 - what surfaces are involved on the machine.
 
-## Why this is ugly
+## Why this remains difficult
 
 What makes this workflow painful?
 
